@@ -17,6 +17,19 @@ It can provide the schedules the loans and contribution effects with vivid visua
 ## <a name="installation-and-usage"></a>Installation and Usage
 
 
+Install pytest to test all functions of the object-oriented program:
+
+```
+! pip install pytest
+```
+
+To run pytest at Jupyter successfully, please install ipytest as well:
+
+```
+! install ipytest
+```
+
+
 Install dash to run the codes of web application:
 
 ```
